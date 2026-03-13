@@ -248,19 +248,22 @@ Load capacitance:
 
 ## KR = 1
 
-![KR1 Results](images/results_KR1.png)
+![KR1 Results](images/results_KR1a.png)
+![KR1 Results](images/results_KR1b.png)
 
 ---
 
 ## KR = 0.5
 
-![KR05 Results](images/results_KR05.png)
+![KR05 Results](images/results_KR05a.png)
+![KR05 Results](images/results_KR05b.png)
 
 ---
 
 ## KR = 2
 
-![KR2 Results](images/results_KR2.png)
+![KR2 Results](images/results_KR2a.png)
+![KR2 Results](images/results_KR2b.png)
 
 ---
 
@@ -276,7 +279,23 @@ Output voltage levels were extracted using the Cadence ADE calculator.
 
 Propagation delays were measured from transient simulations.
 
-![Delay](images/propagation_delay.png)
+## KR = 0.5
+
+![Delay](images/propagation_delay05.png)
+
+---
+
+
+## KR = 1
+
+![Delay](images/propagation_delay1.png)
+
+---
+
+
+## KR = 2
+
+![Delay](images/propagation_delay2.png)
 
 ---
 
